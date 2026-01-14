@@ -769,9 +769,9 @@ export default function HomePage() {
           </svg>
         </div>
         
-        <a href="/blog/float-1.0" className="hero-badge">
-          <span className="hero-badge-new">New</span>
-          Float.js 1.0 is here — Read the announcement →
+        <a href="https://www.npmjs.com/package/@float.js/core" className="hero-badge" target="_blank" rel="noopener">
+          <span className="hero-badge-new">v2.0.1</span>
+          Now available on npm — npm install @float.js/core →
         </a>
         
         <h1 className="hero-title">

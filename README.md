@@ -18,10 +18,11 @@
 </p>
 
 <p align="center">
+  <a href="https://www.npmjs.com/package/@float.js/core"><img src="https://img.shields.io/npm/v/@float.js/core?style=flat-square&color=8b5cf6&label=npm" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/@float.js/core"><img src="https://img.shields.io/npm/dm/@float.js/core?style=flat-square&color=6366f1&label=downloads" alt="npm downloads"></a>
   <a href="https://github.com/float-js/float-js/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-8b5cf6?style=flat-square" alt="license"></a>
   <a href="https://github.com/float-js/float-js/stargazers"><img src="https://img.shields.io/github/stars/float-js/float-js?style=flat-square&color=8b5cf6" alt="stars"></a>
   <a href="https://github.com/float-js/float-js"><img src="https://img.shields.io/badge/PRs-welcome-8b5cf6?style=flat-square" alt="PRs welcome"></a>
-  <a href="https://github.com/float-js/float-js"><img src="https://img.shields.io/badge/version-0.1.0-8b5cf6?style=flat-square" alt="version"></a>
 </p>
 
 <p align="center">
